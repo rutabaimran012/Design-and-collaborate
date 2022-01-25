@@ -63,6 +63,9 @@ nav{
     letter-spacing: 1.1px;
     cursor: pointer;
 }
+.nav__button1:hover{
+    background-color: #ffba26;
+}
 .nav__button2{
     margin-right: 8px;
     margin-left: 8px;
@@ -77,6 +80,10 @@ nav{
     background-color: #1e1e1e;
     border: 2px solid #ffad00;
     border-radius: 8px;
+}
+.nav__button2:hover{
+    background-color: #ffad00;
+    color: black;
 }
 .nav__div{
     margin-top: -15px;
@@ -119,6 +126,9 @@ header{
     cursor: pointer;
     margin-left: 259px;
     margin-top: 40px;
+}
+.header__button:hover{
+    background-color: #ffba26;
 }
 .header__paragraph2{
     font-size: 14px;
